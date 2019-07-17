@@ -6,7 +6,10 @@ The Way to make a perfect cryptocurrency wallet
 [BitcoinJS (bitcoinjs-lib)](https://github.com/bitcoinjs/bitcoinjs-lib) A javascript Bitcoin library for node.js and browsers.
 
 [BIP39](https://github.com/bitcoinjs/bip39) JavaScript implementation of Bitcoin BIP39: Mnemonic code for generating deterministic keys.
+
 [BIP21](https://github.com/bitcoinjs/bip21) A BIP21 compatible URL encoding library.
+
+[satoshi-bitcoin](https://github.com/dawsbot/satoshi-bitcoin) Convert precisely between Satoshi and Bitcoin
 
 [Bcoin](https://github.com/bcoin-org/bcoin) Bcoin is an alternative implementation of the bitcoin protocol, written in node.js.
 
@@ -36,6 +39,9 @@ The Way to make a perfect cryptocurrency wallet
 [Bitcore P2P Cash](https://github.com/bitpay/bitcore/blob/master/packages/bitcore-p2p-cash) The peer-to-peer networking protocol for BCH.
 
 [Bitcore Lib Cash](https://github.com/bitpay/bitcore/blob/master/packages/bitcore-lib-cash) A pure and powerful JavaScript Bitcoin Cash library.
+
+## BSV
+[BSV](https://github.com/moneybutton/bsv) Bitcoin SV javascript library
 
 ## ETH
 [Crypto Wallet Core](https://github.com/bitpay/bitcore/blob/master/packages/crypto-wallet-core) **[BTC][BCH][ETH]** A coin-agnostic wallet library for creating transactions, signing, and address derivation.
