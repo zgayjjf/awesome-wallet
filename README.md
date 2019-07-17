@@ -30,13 +30,13 @@ The Way to make a perfect cryptocurrency wallet
 
 
 ## BCH
-### [Bitcore](https://github.com/bitpay/bitcore)
 [Crypto Wallet Core](https://github.com/bitpay/bitcore/blob/master/packages/crypto-wallet-core) **[BTC][BCH][ETH]** A coin-agnostic wallet library for creating transactions, signing, and address derivation.
+
 [Bitcore P2P Cash](https://github.com/bitpay/bitcore/blob/master/packages/bitcore-p2p-cash) The peer-to-peer networking protocol for BCH.
+
 [Bitcore Lib Cash](https://github.com/bitpay/bitcore/blob/master/packages/bitcore-lib-cash) A pure and powerful JavaScript Bitcoin Cash library.
 
 ## ETH
-### [Bitcore](https://github.com/bitpay/bitcore)
 [Crypto Wallet Core](https://github.com/bitpay/bitcore/blob/master/packages/crypto-wallet-core) **[BTC][BCH][ETH]** A coin-agnostic wallet library for creating transactions, signing, and address derivation.
 
 ### Data
