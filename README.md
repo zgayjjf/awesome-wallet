@@ -1,6 +1,10 @@
 # awesome-wallet
 The Way to make a perfect cryptocurrency wallet
 
+## Wallets
+[CoinApp](https://github.com/coinapp-io/desktop)  [Win][Mac][Linux] [ETH][BTC][LTC] A Simple Cryptocurrency Wallet
+
+
 ## BTC
 ### Libraries
 [BitcoinJS (bitcoinjs-lib)](https://github.com/bitcoinjs/bitcoinjs-lib) A javascript Bitcoin library for node.js and browsers.
