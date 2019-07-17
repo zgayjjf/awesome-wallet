@@ -3,8 +3,9 @@ The Way to make a perfect cryptocurrency wallet
 
 ## BTC
 ### Libraries
+[BitcoinJS (bitcoinjs-lib)](https://github.com/bitcoinjs/bitcoinjs-lib) A javascript Bitcoin library for node.js and browsers.
+[BIP39](https://github.com/bitcoinjs/bip39) JavaScript implementation of Bitcoin BIP39: Mnemonic code for generating deterministic keys.
 [Bcoin](https://github.com/bcoin-org/bcoin) Bcoin is an alternative implementation of the bitcoin protocol, written in node.js.
-
 [**Bitcore**](https://github.com/bitpay/bitcore)
 > Libraries
 - [Bitcore Lib](https://github.com/bitpay/bitcore/blob/master/packages/bitcore-lib) A pure and powerful JavaScript Bitcoin library.
