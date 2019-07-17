@@ -1,8 +1,11 @@
 # awesome-wallet
-The Way to make a perfect crypto currency wallet
+The Way to make a perfect cryptocurrency wallet
 
 ## BTC
-### [Bitcore](https://github.com/bitpay/bitcore)
+### Libraries
+[Bcoin](https://github.com/bcoin-org/bcoin) Bcoin is an alternative implementation of the bitcoin protocol, written in node.js.
+
+[**Bitcore**](https://github.com/bitpay/bitcore)
 > Libraries
 - [Bitcore Lib](https://github.com/bitpay/bitcore/blob/master/packages/bitcore-lib) A pure and powerful JavaScript Bitcoin library.
 - [Bitcore Lib Cash](https://github.com/bitpay/bitcore/blob/master/packages/bitcore-lib-cash) **[BCH]** A pure and powerful JavaScript Bitcoin Cash library.
@@ -24,13 +27,13 @@ The Way to make a perfect crypto currency wallet
 
 ## BCH
 ### [Bitcore](https://github.com/bitpay/bitcore)
-- [Crypto Wallet Core](https://github.com/bitpay/bitcore/blob/master/packages/crypto-wallet-core) **[BTC][BCH][ETH]** A coin-agnostic wallet library for creating transactions, signing, and address derivation.
-- [Bitcore P2P Cash](https://github.com/bitpay/bitcore/blob/master/packages/bitcore-p2p-cash) The peer-to-peer networking protocol for BCH.
-- [Bitcore Lib Cash](https://github.com/bitpay/bitcore/blob/master/packages/bitcore-lib-cash) A pure and powerful JavaScript Bitcoin Cash library.
+[Crypto Wallet Core](https://github.com/bitpay/bitcore/blob/master/packages/crypto-wallet-core) **[BTC][BCH][ETH]** A coin-agnostic wallet library for creating transactions, signing, and address derivation.
+[Bitcore P2P Cash](https://github.com/bitpay/bitcore/blob/master/packages/bitcore-p2p-cash) The peer-to-peer networking protocol for BCH.
+[Bitcore Lib Cash](https://github.com/bitpay/bitcore/blob/master/packages/bitcore-lib-cash) A pure and powerful JavaScript Bitcoin Cash library.
 
 ## ETH
 ### [Bitcore](https://github.com/bitpay/bitcore)
-- [Crypto Wallet Core](https://github.com/bitpay/bitcore/blob/master/packages/crypto-wallet-core) **[BTC][BCH][ETH]** A coin-agnostic wallet library for creating transactions, signing, and address derivation.
+[Crypto Wallet Core](https://github.com/bitpay/bitcore/blob/master/packages/crypto-wallet-core) **[BTC][BCH][ETH]** A coin-agnostic wallet library for creating transactions, signing, and address derivation.
 
 ### Data
 
@@ -38,7 +41,7 @@ The Way to make a perfect crypto currency wallet
 
 ## EOS
 ### Data
-- [EOS Tokens](https://github.com/BlockABC/eos-tokens) The ULTIMATE collection of all EOS tokens.
+[EOS Tokens](https://github.com/BlockABC/eos-tokens) The ULTIMATE collection of all EOS tokens.
 
 ## IOST
 
