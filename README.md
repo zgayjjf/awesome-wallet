@@ -32,7 +32,13 @@ The Way to make a perfect crypto currency wallet
 ### [Bitcore](https://github.com/bitpay/bitcore)
 - [Crypto Wallet Core](https://github.com/bitpay/bitcore/blob/master/packages/crypto-wallet-core) **[BTC][BCH][ETH]** A coin-agnostic wallet library for creating transactions, signing, and address derivation.
 
+### Data
+
+
+
 ## EOS
+### Data
+- [EOS Tokens](https://github.com/BlockABC/eos-tokens) The ULTIMATE collection of all EOS tokens.
 
 ## IOST
 
