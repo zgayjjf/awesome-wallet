@@ -40,6 +40,10 @@ The Way to make a perfect crypto currency wallet
 
 ## TRON
 
+## API
+### Fiat
+[https://bitpay.com/api/rates/](https://bitpay.com/api/rates/) Bitpay Crypto-Fiat API
+
 ## TUTORIALS
 
 ## DOCUMENTS
