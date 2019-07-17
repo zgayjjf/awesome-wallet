@@ -31,7 +31,7 @@ The Way to make a perfect cryptocurrency wallet
 - [Bitcore Wallet Client](https://github.com/bitpay/bitcore/blob/master/packages/bitcore-wallet-client) The official client library for bitcore-wallet-service.
 - [Bitcore Wallet](https://github.com/bitpay/bitcore/blob/master/packages/bitcore-wallet) **[CLI]** A simple Command Line Interface Wallet using Bitcore Wallet Service and its official client lib Bitcore Wallet Client.
 - [Bitcore Wallet Service](https://github.com/bitpay/bitcore/blob/master/packages/bitcore-wallet-service) A Multisig HD Bitcore Wallet Service.
-- [Insight](https://github.com/bitpay/bitcore/blob/master/packages/insight-previous/README.md) A blockchain explorer for Bitcore.
+- [Insight](https://github.com/bitpay/bitcore/blob/master/packages/insight-previous/README.md) API server for Bitcoin and Litecoin transaction history and balance updates.
 
 > Extras
 - [Bitcore Client](https://github.com/bitpay/bitcore/tree/master/packages/bitcore-client) [CLI] A helper to create a wallet using the bitcore-v8 infrastructure. 
