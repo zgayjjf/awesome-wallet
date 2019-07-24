@@ -49,7 +49,11 @@ The Way to make a perfect cryptocurrency wallet
 
 ## ETH
 [Crypto Wallet Core](https://github.com/bitpay/bitcore/blob/master/packages/crypto-wallet-core) **[BTC][BCH][ETH]** A coin-agnostic wallet library for creating transactions, signing, and address derivation.
-
+[web3.js](https://web3js.readthedocs.io/en/v1.2.0/) Ethereum JavaScript API
+[MetaMask Docs](https://metamask.github.io/metamask-docs/)
+[Web3View](https://github.com/TrustWallet/Web3View)
+[react-native-web3-example](https://github.com/bullish-ventures/react-native-web3-example) A React Native example app using the Web3 Javascript API
+[web3-loader](https://github.com/uzyn/web3-loader) Deploys Ethereum VM bytecode and returns ready-to-use JavaScript instance of the deployed smart contract(s)
 ### Data
 
 
