@@ -78,5 +78,6 @@ The Way to make a perfect cryptocurrency wallet
 [https://bitpay.com/api/rates/](https://bitpay.com/api/rates/) Bitpay Crypto-Fiat API
 
 ## TUTORIALS
+[Learn Me a BitCoin](http://learnmeabitcoin.com)  Learn BitCoin the easy way.
 
 ## DOCUMENTS
